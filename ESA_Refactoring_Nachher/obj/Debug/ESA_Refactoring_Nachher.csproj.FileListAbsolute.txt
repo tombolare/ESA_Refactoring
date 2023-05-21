@@ -1,0 +1,7 @@
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\bin\Debug\ESA_Refactoring_Nachher.exe
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\bin\Debug\ESA_Refactoring_Nachher.pdb
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\obj\Debug\ESA_Refactoring_Nachher.csproj.AssemblyReference.cache
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\obj\Debug\ESA_Refactoring_Nachher.csproj.SuggestedBindingRedirects.cache
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\obj\Debug\ESA_Refactoring_Nachher.csproj.CoreCompileInputs.cache
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\obj\Debug\ESA_Refactoring_Nachher.exe
+D:\Studium\Data_Manager\ESA_Refactoring_Nachher\obj\Debug\ESA_Refactoring_Nachher.pdb

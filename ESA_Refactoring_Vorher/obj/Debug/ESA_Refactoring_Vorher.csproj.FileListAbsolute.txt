@@ -1,0 +1,7 @@
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\bin\Debug\ESA_Refactoring.exe
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\bin\Debug\ESA_Refactoring.pdb
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\obj\Debug\ESA_Refactoring_Vorher.csproj.AssemblyReference.cache
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\obj\Debug\ESA_Refactoring_Vorher.csproj.SuggestedBindingRedirects.cache
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\obj\Debug\ESA_Refactoring_Vorher.csproj.CoreCompileInputs.cache
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\obj\Debug\ESA_Refactoring.exe
+D:\Studium\Data_Manager\ESA_Refactoring_Vorher\obj\Debug\ESA_Refactoring.pdb
